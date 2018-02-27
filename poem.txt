@@ -5,3 +5,4 @@ sota panchi
 mota panchi
 chomin panchi
 eat eat
+not eat eat
